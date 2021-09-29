@@ -1,0 +1,20 @@
+.form-registration {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.btn-registration{
+    width: 100%;
+}
+
+.status-considered {
+    color: #ffc300;
+}
+
+.status-success {
+    color: green;
+}
+
+.status-cancel {
+    color: red;
+}
